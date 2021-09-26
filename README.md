@@ -21,7 +21,7 @@ One can learn following concepts of reactJs:
 A Demo of the project [is running here](https://air-pollution-12ff53.netlify.app/).
 
 # See it in Action
-[![AQI](image-page.jpg)](https://tapasadhikary.com)
+[![AQI](myntra-home.png?raw=true "React JS")</br>)
 
 # Running the Project
 
